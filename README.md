@@ -3,8 +3,6 @@
 
 # MindCast
 
-![Preview-Screens](https://github.com/steniowagner/mindCast/blob/master/PUXA-R10!.png)
-
 If you want to take a look on all screens of the App, they are [here](https://drive.google.com/drive/folders/1rXFlogxaT5E0pthrrLhF1D_wOVbSHwhD).
 
 ## About this Project
@@ -20,10 +18,6 @@ _"Share knowledge in the form of podcasts, providing a simple way to learn"._
 ## Why?
 
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
-
-Email-me: stenio.wagner1@gmail.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/).
 
 Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
 
@@ -108,14 +102,14 @@ iOS .ipa installer: Soon!
 
 To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://facebook.github.io/react-native/docs/getting-started).
 
-Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server [here](https://github.com/steniowagner/mindcast-server).
+Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server 
 
 ### Installing
 
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/steniowagner/mindCast
+$ git clone 
 
 $ cd mindCast
 ```
@@ -195,12 +189,4 @@ $ react-native run-ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: stenio.wagner1@gmail.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
-
 Thank you!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/steniowagner/mindCast/blob/master/LICENSE) file for details
